@@ -24,11 +24,12 @@ LAXwx compare share.ipynb
       
       The results can be read as: For each grouping of weather conditions, what is the cound of those happening at that level each month of the year?
       
-Some quick insights (none very surprising)
-    Burlington (Btv) has a much wider temperature range than LA.  LA is quite moderate - but yikes, it got really hot <110F last year.
-    Btv is windier than LAX, but less that Denver - denver more frequenly high winds.  LA has pretty calm winds for a lot of the winter
-    Den is the driest of the three locales
-    Lots of sunshine in Den and LAX. Lots of clouds in BTV.
+Some quick insights (none very surprising):
+    <ul><li>Burlington (Btv) has a much wider temperature range than LA.  LA is quite moderate - but yikes, it got really hot <110F last year.</li>
+    <li>Btv is windier than LAX, but less that Denver - denver more frequenly high winds.  LA has pretty calm winds for a lot of the winter</li>
+    <li>Den is the driest of the three locales</li>
+    <li>Lots of sunshine in Den and LAX. Lots of clouds in BTV.</li>
+    </ul>
     
 The other files are the generated data files as .csv
     
